@@ -1,4 +1,4 @@
-package src
+package runningsum
 
 import (
 	"fmt"

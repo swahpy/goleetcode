@@ -1,4 +1,4 @@
-package src
+package runningsum
 
 func runningSum(nums []int) []int {
 	res := make([]int, len(nums))
